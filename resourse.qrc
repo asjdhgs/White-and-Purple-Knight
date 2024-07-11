@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>start.png</file>
+        <file>background.png</file>
+        <file>fire.jpg</file>
+        <file>Knight_H.png</file>
+        <file>Knight_H-leftmove.gif</file>
+        <file>Knight_H-rightmove.gif</file>
+        <file>gameover.png</file>
+        <file>river1.png</file>
+        <file>stone.png</file>
+        <file>choose.png</file>
+        <file>purpledoor.png</file>
+        <file>whitedoor.png</file>
+        <file>dooropen.gif</file>
+        <file>Special-Knight-leftmove.gif</file>
+        <file>Special-Knight-rightmove.gif</file>
+        <file>purple.png</file>
+        <file>Victory.gif</file>
+        <file>iswin.png</file>
+        <file>ground-nograss.png</file>
+        <file>ground.png</file>
+        <file>stop.png</file>
+        <file>green.png</file>
+        <file>white.png</file>
+        <file>slop1.png</file>
+        <file>slop2.png</file>
+        <file>board.png</file>
+        <file>button-up.png</file>
+        <file>greenboard.png</file>
+        <file>greenbutton-up.png</file>
+        <file>redboard.png</file>
+        <file>redbutton-up.png</file>
+    </qresource>
+</RCC>
